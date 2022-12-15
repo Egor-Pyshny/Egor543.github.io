@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a62a0cb2.css",
+    "main.js": "/static/js/main.b6cb1448.js",
+    "static/js/787.f6b89c4d.chunk.js": "/static/js/787.f6b89c4d.chunk.js",
+    "static/media/background.jpg": "/static/media/background.b54af097766b12f36730.jpg",
+    "static/media/card2.jpg": "/static/media/card2.e561cfd11ea157111f49.jpg",
+    "static/media/val1.png": "/static/media/val1.af5ea89b8d531fdb628b.png",
+    "static/media/val2.jpg": "/static/media/val2.3801397eabd19e9bb15e.jpg",
+    "static/media/val3.jpg": "/static/media/val3.2e4e1eb8ae69a2b633b9.jpg",
+    "static/media/belogor3.jpg": "/static/media/belogor3.a1c978cbda954aeaf638.jpg",
+    "static/media/zaborski3.jpg": "/static/media/zaborski3.17f3b0d38cd1403eb7c9.jpg",
+    "static/media/card5.jpg": "/static/media/card5.082f8b04f0c88061d01b.jpg",
+    "static/media/zaborski2.jpg": "/static/media/zaborski2.e2828fd6c94c16d95622.jpg",
+    "static/media/korol3.jpg": "/static/media/korol3.ac46417b445be5f8d2e3.jpg",
+    "static/media/card1.jpg": "/static/media/card1.0ed5335c9626a581c78b.jpg",
+    "static/media/ava1.jpg": "/static/media/ava1.abc85f8d66952058cef4.jpg",
+    "static/media/baklanov3.jpg": "/static/media/baklanov3.786b4e269c4eb3c0a67c.jpg",
+    "static/media/ava2.jpg": "/static/media/ava2.8623dff74d4bb2d3c787.jpg",
+    "static/media/card4.jpg": "/static/media/card4.547ddd685d72d90ebed6.jpg",
+    "static/media/belogor1.jpg": "/static/media/belogor1.cf67162d7ce96d191705.jpg",
+    "static/media/card3.jpg": "/static/media/card3.71bd3fe12d1e10f275ae.jpg",
+    "static/media/zaborski1.jpg": "/static/media/zaborski1.6dd3fcf5ee838de3a3d8.jpg",
+    "static/media/korol2.jpg": "/static/media/korol2.1d1b6de9b21003f64ea4.jpg",
+    "static/media/baklanov2.jpg": "/static/media/baklanov2.54f4ef340c0a4be30dc2.jpg",
+    "static/media/korol1.jpg": "/static/media/korol1.8846320b213f82233f32.jpg",
+    "static/media/baklanov1.jpg": "/static/media/baklanov1.36beed56dc286a6ba81a.jpg",
+    "static/media/belogor2.jpg": "/static/media/belogor2.19626c8e98936b220bbe.jpg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.a62a0cb2.css.map": "/static/css/main.a62a0cb2.css.map",
+    "main.b6cb1448.js.map": "/static/js/main.b6cb1448.js.map",
+    "787.f6b89c4d.chunk.js.map": "/static/js/787.f6b89c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62a0cb2.css",
+    "static/js/main.b6cb1448.js"
+  ]
+}
